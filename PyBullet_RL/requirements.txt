@@ -1,0 +1,7 @@
+# requirements.txt
+gymnasium \
+numpy \
+torch \
+stable-baselines3 \
+pybullet \
+wandb
